@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulAppSube1", "OkulAppSube1\OkulAppSube1.csproj", "{125946BB-8386-44B4-B4C0-9C294BC28ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfApp", "EfApp\EfApp.csproj", "{25536FFA-B7B4-4CDE-90BF-01BFD29DE38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfApp", "EfApp\EfApp.csproj", "{25536FFA-B7B4-4CDE-90BF-01BFD29DE38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulAppProjectSube1", "OkulAppProjectSube1\OkulAppProjectSube1.csproj", "{357EBA86-B398-4874-9B95-21033DD2CD3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{25536FFA-B7B4-4CDE-90BF-01BFD29DE38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25536FFA-B7B4-4CDE-90BF-01BFD29DE38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25536FFA-B7B4-4CDE-90BF-01BFD29DE38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357EBA86-B398-4874-9B95-21033DD2CD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357EBA86-B398-4874-9B95-21033DD2CD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357EBA86-B398-4874-9B95-21033DD2CD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357EBA86-B398-4874-9B95-21033DD2CD3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

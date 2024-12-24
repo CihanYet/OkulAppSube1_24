@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace EfApp.Migrations
+namespace OkulAppProjectSube1.Migrations
 {
     [DbContext(typeof(OkulDbContext))]
     partial class OkulDbContextModelSnapshot : ModelSnapshot
